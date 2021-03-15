@@ -12,3 +12,4 @@
 
 ## References
 - [Налоги и льготы в Украине, Польше, Литве, Латвии и Грузии](https://dev.by/news/ukraina-polsha-litva-latvia-gruzia)
+- [Беларусь, Украина, Польша, Чехия, Кипр, Эстония, Литва, Латвия, Болгария ](https://dev.by/news/ey-relocate)
